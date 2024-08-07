@@ -16,7 +16,7 @@ It was a 4-week Internship project where I went through the basics of Artificial
   <li>Building Neural Networks with Keras</li>
 </ul>
 
-![Analysis Screenshot](vois_internship\files\AI Design challenges.pdf)
+![Analysis Screenshot](https://github.com/kottarivaibhav/vois_internship/blob/main/files/AI%20Design%20challenges.pdf)
 ![Analysis Screenshot](vois_internship\files\Building Models with Keras.pdf)
 ![Analysis Screenshot](https://example.com/path_to_image2.png)
 ![Analysis Screenshot](https://example.com/path_to_image2.png)
