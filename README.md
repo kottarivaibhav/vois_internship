@@ -5,7 +5,6 @@ This is a Data Analysis project on the topic: **Diabetics Analysis**. This proje
 ## Project Analysis
 Link to view the Project Analysis - [Project Analysis](https://kottarivaibhav.github.io/vois_internship/)
 
-![Analysis Screenshot](https://example.com/path_to_image2.png)
 
 ## Internship Overview
 It was a 4-week Internship project where I went through the basics of Artificial Intelligence. I underwent 4 additional courses provided by Vois Vodafone:
@@ -16,10 +15,7 @@ It was a 4-week Internship project where I went through the basics of Artificial
   <li>Building Neural Networks with Keras</li>
 </ul>
 
-![Analysis Screenshot](https://github.com/kottarivaibhav/vois_internship/blob/main/files/AI%20Design%20challenges.pdf)
-![Analysis Screenshot](vois_internship\files\Building Models with Keras.pdf)
-![Analysis Screenshot](https://example.com/path_to_image2.png)
-![Analysis Screenshot](https://example.com/path_to_image2.png)
+
 ## Accessing Files
 To access the project files, clone the repository using the following command:
 ```bash
